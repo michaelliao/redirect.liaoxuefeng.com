@@ -1,5 +1,5 @@
 {
-  "wait": 5,
+  "wait": 0,
   "generate404": true,
   "generateIndex": true
 }
